@@ -1,0 +1,8 @@
+[2019/10/14 16:10:03][INFO]核心初始化->游戏根目录(默认则为空):D:\工程开发\C#\MineRealms\MineRealmsLauncher-master\MineRealmsLauncher\bin\Debug\.minecraft\.minecraft
+[2019/10/14 16:10:03][INFO]核心初始化->Java位数:x64
+[2019/10/14 16:10:03][INFO]核心初始化->Java版本:1.8.0_191
+[2019/10/14 16:10:03][INFO]核心初始化->Java路径:C:\Program Files\Java\jre1.8.0_191\bin\javaw.exe
+[2019/10/14 16:10:03][INFO]自定义->更改主题颜色:Blue
+[2019/10/14 16:10:03][INFO]自定义->更改主题:BaseLight
+[2019/10/14 16:10:04][DEBUG]启动器主窗体已载入
+[2019/10/14 16:10:04][DEBUG]启动器主窗体数据重载完毕

@@ -1,0 +1,70 @@
+{
+  "User": {
+    "UserDatabase": {},
+    "AuthenticationDic": {},
+    "ClientToken": "858b8e53d2924895a5cf1399cb33613a",
+    "LockAuthName": null,
+    "Nide8ServerDependence": false
+  },
+  "Environment": {
+    "VersionIsolation": false,
+    "GamePathType": 0,
+    "GamePath": null,
+    "GCEnabled": true,
+    "GCType": 0,
+    "GCArgument": null,
+    "AutoJava": true,
+    "JavaPath": null,
+    "JavaAgent": null,
+    "AutoMemory": true,
+    "MaxMemory": 0,
+    "MinMemory": 0,
+    "AdvencedJvmArguments": null,
+    "AdvencedGameArguments": null,
+    "WindowSize": {
+      "FullScreen": false,
+      "Height": 0,
+      "Width": 0
+    },
+    "DownloadLostDepend": true,
+    "DownloadLostAssets": true,
+    "ExitAfterLaunch": false
+  },
+  "History": {
+    "SelectedUserNodeID": null,
+    "LastLaunchVersion": null,
+    "LastLaunchTime": "0001-01-01T00:00:00",
+    "LastLaunchUsingMs": 0
+  },
+  "Launcher": {
+    "Debug": false,
+    "NoTracking": false,
+    "CheckUpdate": true
+  },
+  "Download": {
+    "DownloadSource": 0,
+    "DownloadThreadsSize": 5,
+    "DownloadProxyAddress": null,
+    "DownloadProxyPort": 0,
+    "ProxyUserName": null,
+    "ProxyUserPassword": null,
+    "CheckDownloadFileHash": true
+  },
+  "Server": {
+    "ServerName": null,
+    "ShowServerInfo": false,
+    "LaunchToServer": false,
+    "Address": null,
+    "Port": 25565
+  },
+  "Customize": {
+    "CustomBackGroundPicture": false,
+    "CustomBackGroundMusic": false,
+    "AccentColor": "Blue",
+    "AppThme": "BaseLight",
+    "LauncherTitle": null,
+    "GameWindowTitle": null,
+    "VersionInfo": null
+  },
+  "ConfigVersion": "4.8.7226.28857"
+}

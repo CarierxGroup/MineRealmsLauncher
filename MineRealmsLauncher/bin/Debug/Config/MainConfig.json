@@ -1,0 +1,97 @@
+{
+  "User": {
+    "UserDatabase": {
+      "63075528c62952b08ad278b39e76790e": {
+        "AuthModule": "Authlib-injector",
+        "UserName": "3293876954@qq.com",
+        "AccessToken": "eef9f3b08c31468dba3f689074e817da",
+        "SelectProfileUUID": "d3c2123375b03fb697a8f3981fdff3d3",
+        "Profiles": {
+          "d3c2123375b03fb697a8f3981fdff3d3": {
+            "id": "d3c2123375b03fb697a8f3981fdff3d3",
+            "name": "Misaka_9982",
+            "legacy": false,
+            "demo": null
+          }
+        },
+        "UserData": {
+          "id": "63075528c62952b08ad278b39e76790e",
+          "properties": []
+        }
+      }
+    },
+    "AuthenticationDic": {
+      "Authlib-injector": {
+        "Name": "MineRealms验证",
+        "AuthType": 3,
+        "Property": {
+          "authserver": "https://user.minerealms.cn:666/api/yggdrasil"
+        }
+      }
+    },
+    "ClientToken": "33cb0034a13a47b5b243041cc7b6c551",
+    "LockAuthName": null,
+    "Nide8ServerDependence": false
+  },
+  "Environment": {
+    "VersionIsolation": true,
+    "GamePathType": 0,
+    "GamePath": null,
+    "GCEnabled": true,
+    "GCType": 0,
+    "GCArgument": null,
+    "AutoJava": true,
+    "JavaPath": "C:\\Program Files\\Java\\jre1.8.0_191\\bin\\javaw.exe",
+    "JavaAgent": null,
+    "AutoMemory": false,
+    "MaxMemory": 3379,
+    "MinMemory": 3379,
+    "AdvencedJvmArguments": "-server",
+    "AdvencedGameArguments": null,
+    "WindowSize": {
+      "FullScreen": false,
+      "Height": 720,
+      "Width": 1280
+    },
+    "DownloadLostDepend": true,
+    "DownloadLostAssets": true,
+    "ExitAfterLaunch": true
+  },
+  "History": {
+    "SelectedUserNodeID": "63075528c62952b08ad278b39e76790e",
+    "LastLaunchVersion": "1.12.2-forge1.12.2-14.23.5.2838",
+    "LastLaunchTime": "0001-01-01T00:00:00",
+    "LastLaunchUsingMs": 0
+  },
+  "Launcher": {
+    "Debug": false,
+    "NoTracking": false,
+    "CheckUpdate": true
+  },
+  "Download": {
+    "DownloadSource": 1,
+    "DownloadThreadsSize": 5,
+    "DownloadProxyAddress": null,
+    "DownloadProxyPort": 0,
+    "ProxyUserName": null,
+    "ProxyUserPassword": null,
+    "CheckDownloadFileHash": true
+  },
+  "Server": {
+    "ServerName": "MineRealms",
+    "ShowServerInfo": true,
+    "LaunchToServer": false,
+    "Address": "new.minerealms.cn",
+    "Port": 25524
+  },
+  "Customize": {
+    "CustomBackGroundPicture": true,
+    "CustomBackGroundMusic": true,
+    "AccentColor": "Cyan",
+    "AppThme": "BaseLight",
+    "LauncherTitle": "MINEREALMS-我的领域启动器 7.0 Beta",
+    "GameWindowTitle": "Minecraft 1.12.2 | MineRealms-我的领域群组服 7.0 Beta",
+    "VersionInfo": "Powered by MineRealms开发组"
+  },
+  "ConfigVersion": "4.8.7168.25832"
+}
